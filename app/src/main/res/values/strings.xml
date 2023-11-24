@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">comptador</string>
+    <string name="touchme">TOCAM</string>
+    <string name="temps_disponible_1_d">Temps disponible: %1$d</string>
 </resources>
